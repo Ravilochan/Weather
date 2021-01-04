@@ -1,14 +1,11 @@
 # Context and goal
-
-I have done this application for a school project and wanted to try to do a mobile app in using web technologies I am familiar with. Having none mobile background, it was a leap in the dark but in the same time it was really exciting.
-
-This app is made to be simple and may help people knowing React & Redux to get into creating mobile apps. It's made with React Native, coupled with some extra nice packages to handle routing, dataflow and UI elements.
+ This is a simple Weather Application built with React Native , Expo , Open Weather API using JavaScript
 
 ## Preview
 
-![gif preview](/Screenshots/1.png)
+![gif preview](/Screenshots/1.png =250x250)
 
-![preview](/Screenshots/2.png)
+![preview](/Screenshots/2.png =500x500)
 
 ## Main technologies used
 
