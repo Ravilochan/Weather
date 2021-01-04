@@ -5,7 +5,7 @@
 
 ![gif preview](/Screenshots/1.png | width=100)
 
-![preview](/Screenshots/2.png)
+![preview](/Screenshots/2.png =250x250)
 
 ## Main technologies used
 
