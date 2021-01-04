@@ -6,9 +6,9 @@ This app is made to be simple and may help people knowing React & Redux to get i
 
 ## Preview
 
-![gif preview](./Screenshots/Simulator Screen Shot - iPhone 12 Pro Max - 2021-01-04 at 13.59.44.png)
+![gif preview](/Screenshots/1.png)
 
-![preview](./Screenshots/Simulator Screen Shot - iPhone 12 Pro Max - 2021-01-04 at 13.59.49.png)
+![preview](/Screenshots/2.png)
 
 ## Main technologies used
 
