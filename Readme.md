@@ -3,9 +3,9 @@
 
 ## Preview
 
-![gif preview](/Screenshots/1.png | width=100)
+![gif preview](/Screenshots/1.png){ width=50% }
 
-![preview](/Screenshots/2.png =250x250)
+![preview](/Screenshots/2.png)
 
 ## Main technologies used
 
