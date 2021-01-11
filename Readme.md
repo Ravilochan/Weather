@@ -3,7 +3,7 @@
 
 ## Preview
 
-![gif preview](/Screenshots/1.png){ width=50% }
+<img src="/Screenshots/1.png" width=300></img>
 
 ![preview](/Screenshots/2.png)
 
